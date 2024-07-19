@@ -3,6 +3,8 @@
 STNeuroNet is 3-dimensional convolutional neural network (CNN) for segmenting "active" neurons from calcium imaging data. The network was implemented through NiftyNet, a TensorFlow-based open-source CNN platform.
 You can adapt the existing network to your imaging data.
 
+NEW: https://gitlab.iit.it/fellin-public/cite-on
+
 
 ### Features
 
